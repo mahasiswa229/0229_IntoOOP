@@ -18,6 +18,8 @@ class Mahasiswa
 class Matakuliah
 {
     private:
+    string kodeMK;
+    
 };
 
 int main() {}
