@@ -17,7 +17,7 @@ class Mahasiswa
 
 class Matakuliah
 {
-
+    private:
 };
 
 int main() {}
