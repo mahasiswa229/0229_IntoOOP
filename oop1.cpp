@@ -4,5 +4,6 @@ class Mahasiswa
 {
     public:
     string nama;
+    int umur;
 }
 int main() {}
