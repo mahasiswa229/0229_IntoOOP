@@ -13,6 +13,10 @@ class bangundatar
         cout << "masukan lebar : ";
         cin >> lebar;
     }
+    float hitungluas()
+    {
+        
+    }
 };
 int main()
 {
