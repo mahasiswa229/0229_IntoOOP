@@ -15,7 +15,7 @@ class bangundatar
     }
     float hitungluas()
     {
-        
+        return panjang*lebar;
     }
 };
 int main()
