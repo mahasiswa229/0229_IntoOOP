@@ -8,7 +8,10 @@ class bangundatar
     float luas;
     void input()
     {
-        
+        cout << "masukan panjang : ";
+        cin >> panjang;
+        cout << "masukan lebar : ";
+        cin >> lebar;
     }
 };
 int main()
