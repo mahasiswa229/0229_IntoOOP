@@ -19,7 +19,9 @@ class bangundatar
     }
     void display()
     {
-        
+        cout << "panjang" << panjang << endl;
+        cout << "lebar" << lebar << endl;
+        cout << "luas persegi panjang : " << hitungluas() << endl;
     }
 };
 int main()
