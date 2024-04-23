@@ -17,6 +17,10 @@ class bangundatar
     {
         return panjang*lebar;
     }
+    void display()
+    {
+        
+    }
 };
 int main()
 {
