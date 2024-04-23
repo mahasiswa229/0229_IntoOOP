@@ -39,4 +39,8 @@ class Matakuliah
     }
 };
 
-int main() {}
+int main() 
+{
+    Mahasiswa mhs;
+    
+}
